@@ -10,10 +10,10 @@ Pereangkat yang digunakan:
 Program menerima masukan berupa dokumen dalam format .txt. Isi dari dokumen tersebut berupa matriks NxN yang mewakili papan Shikaku.
 Contoh:
 
-4000
-0400
-0040
-0004
+	4000
+	0400
+	0040
+	0004
 
 Matriks diatas adalah masukan yang mewakili bentuk Shikaku 4x4. Berikut adalah ilustrasinya:
 
