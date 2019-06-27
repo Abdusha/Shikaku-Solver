@@ -28,3 +28,5 @@ Matriks diatas adalah masukan yang mewakili bentuk Shikaku 4x4. Berikut adalah i
 	 ----------------------------------
 	3|        |       |       |   4   |
 	 ----------------------------------
+	 
+Bilangan bulat positif <=$\ge 1$ mewakili petunjuk dan $0$ mewakili sel kosong pada papan Shikaku.
