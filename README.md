@@ -1,7 +1,7 @@
 # Shikaku-Solver
 Pencarian solusi Shikaku menggunakan pendekatan logika proposisi dalam Python
 
-Pereangkat yang digunakan:
+Perangkat yang digunakan:
 - Python 3.7.1
 - Pycosat 0.6.3
 - Satispy 1.0
